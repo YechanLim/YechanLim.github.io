@@ -1,7 +1,7 @@
 ---
 title: "First code upload"
 date: 2020-11-10 21:18:28 -0400
-categories: code upload
+categories: Algorithm
 ---
 Used binary search
 
