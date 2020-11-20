@@ -14,7 +14,7 @@ In oder to make fibonacci algorithm using Dynamic Programming, it needs to have 
   
 Therefore, I remembered fibonacci values with array. 
 
-First, I made fibonacci with top-down method.
+It can be made with two methods. Top-down and Down-top. Top-down method seems bit more difficult than drop-top so I made fibonacci with top-down method.
  
 <script src="https://gist.github.com/YechanLim/6f302fc5538bed752d026f348a97dd74.js"></script>
 
