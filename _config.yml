@@ -97,9 +97,7 @@ analytics:
 author:
   name             : "Yechan Lim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Algorith2
-  sm"
-  bio              : "Algorith"
+  bio              : "Everyday, I read books, study algorithm, do exercise at least 10 min "
   location         : "South Korea, Pohang"
   email            :
   links:
