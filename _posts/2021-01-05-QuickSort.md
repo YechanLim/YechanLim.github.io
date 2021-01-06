@@ -12,6 +12,9 @@ but it was solved easily when i set pivot right end of array element and compare
 <script src="https://gist.github.com/YechanLim/cd58f132dc5c3e36b3f4dbce46c95c23.js"></script>
 
 
+
+
+
 Why it takes nlogn average time complexity?
 
 https://stackoverflow.com/questions/10425506/intuitive-explanation-for-why-quicksort-is-n-log-n
