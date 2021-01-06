@@ -10,3 +10,10 @@ The main difficulty while making this code was how to arrange array left and rig
 but it was solved easily when i set pivot right end of array element and compare array element from left and right and if there is something to change, just change. 
 
 <script src="https://gist.github.com/YechanLim/cd58f132dc5c3e36b3f4dbce46c95c23.js"></script>
+
+
+Why it takes nlogn average time complexity?
+
+https://stackoverflow.com/questions/10425506/intuitive-explanation-for-why-quicksort-is-n-log-n
+
+
