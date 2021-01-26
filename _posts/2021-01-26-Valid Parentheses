@@ -1,0 +1,17 @@
+---
+title: "Valid Parentheses"
+date: 2021-01-26 00:00:00 -0400
+categories: [Algorithm]
+---
+
+Input is given as string of open and close brackets. It has to demermine whether the input string is valid.
+
+
+An input string is valid if:
+
+1. Open brackets must be closed by the same type of brackets.
+
+2. Open brackets must be closed in the correct order.
+
+
+<script src="https://gist.github.com/YechanLim/93cc5cac222376c602fdc183495fc85e.js"></script>
